@@ -1,1 +1,2 @@
 Almost all sequences contain N501v
+It also contains A578D
